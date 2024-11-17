@@ -19,7 +19,7 @@ I tested that it worked by doing
 ```
 docker compose version
 ```
-It showed my version of docker compose so it worked for me \
+It showed my version of docker compose so it worked for me which meant the installation of Docker Compose was successful
 ## WordPress Setup
 Next I needed to Dockerize an app \
 I chose to use WordPress since this is my first time using docker \
@@ -73,6 +73,7 @@ After that I used
 ```
 sudo docker compose up -d
 ```
+while in the directory I made previously \
 This activated my container \
 Next I opened a new browser and went to localhost \
 This took me to my set up page where I set up my WordPress \
