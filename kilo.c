@@ -1,3 +1,4 @@
+/*** TextEditor with search feature ***/
 /*** includes ***/
 #define _DEFAULT_SOURCE
 #define _BSD_SOURCE
